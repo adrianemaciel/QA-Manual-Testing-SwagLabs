@@ -18,7 +18,7 @@
 <details>
   <summary>📸 Clique para ver a captura de tela (Imagem 01)</summary>
   <br>
-  <img src="./evidencias/bug-01-login.png" alt="Erro de login" width="600px">
+  <img src="./bug-01-login.png" alt="Erro de login" width="600px">
 </details>
 
 ---
@@ -41,7 +41,7 @@
 <details>
   <summary>📸 Clique para ver a captura de tela (Imagem 02)</summary>
   <br>
-  <img src="./evidencias/bug-02-inventario.png" alt="Imagens duplicadas no inventário" width="600px">
+  <img src="./bug-02-inventario.png" alt="Imagens duplicadas no inventário" width="600px">
 </details>
 
 ---
@@ -65,5 +65,5 @@
 <details>
   <summary>📸 Clique para ver a captura de tela (Imagem 03)</summary>
   <br>
-  <img src="./evidencias/bug-03-inventario.png" alt="Falha no botão add to cart" width="600px">
+  <img src="./bug-03-inventario.png" alt="Falha no botão add to cart" width="600px">
 </details>
