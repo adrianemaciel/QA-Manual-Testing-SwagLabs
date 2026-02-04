@@ -6,10 +6,10 @@
 - **Ambiente: Web:** Swag Labs.
 
   **Passos para Reproduzir:**
-  1.  Acessar a página de login do Swag Labs.
-  2.  Inserir um usuário válido (ex: standard_user).
-  3.  Inserir uma senha propositalmente incorreta.
-  4.  Clicar no botão Login.
+1.  Acessar a página de login do Swag Labs.
+2.  Inserir um usuário válido (ex: standard_user).
+3.  Inserir uma senha propositalmente incorreta.
+4.  Clicar no botão Login.
 
 **Resultado Esperado:** O sistema deve exibir uma mensagem clara e amigável, orientando o usuário sobre o erro na senha.
 
